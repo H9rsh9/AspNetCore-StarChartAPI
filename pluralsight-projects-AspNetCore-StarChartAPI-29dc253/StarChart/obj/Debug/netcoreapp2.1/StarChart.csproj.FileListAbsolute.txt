@@ -1,0 +1,16 @@
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.deps.json
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.runtimeconfig.json
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.runtimeconfig.dev.json
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.dll
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.pdb
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfo.cs
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cache
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cs
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorTargetAssemblyInfo.cache
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.dll
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.pdb
+C:\Users\vmadmin\Downloads\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.genruntimeconfig.cache
